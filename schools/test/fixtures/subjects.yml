@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Subject_Title: MyString
+  Credits_Units: 9.99
+  Description: MyText
+
+two:
+  Subject_Title: MyString
+  Credits_Units: 9.99
+  Description: MyText
